@@ -49,7 +49,7 @@
                 <executions>
                     <execution>
                         <phase>package</phase>
-                        <goals><goal>package</goal></goals>
+                        <goals><goal>copy</goal></goals>
                         <configuration>
                             <artifactItems>
                                 <artifactItem>
